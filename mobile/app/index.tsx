@@ -28,7 +28,7 @@ export default function App() {
     authorizationEndpoint: 'https://github.com/login/oauth/authorize',
     tokenEndpoint: 'https://github.com/login/oauth/access_token',
     revocationEndpoint:
-      'https://github.com/settings/connections/applications/9957ece8533629959d19',
+      'https://github.com/settings/connections/applications/6a23258fbc1ff5fa5cd8',
   }
 
   const [hasLoadedFonts] = useFonts({
@@ -39,7 +39,7 @@ export default function App() {
 
   const [, response, SignInWithGitHub] = useAuthRequest(
     {
-      clientId: '9957ece8533629959d19',
+      clientId: '6a23258fbc1ff5fa5cd8',
       scopes: ['identity'],
       redirectUri: makeRedirectUri({
         scheme: 'nlwspacetime',
