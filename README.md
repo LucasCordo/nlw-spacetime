@@ -9,12 +9,12 @@ Nesse projeto eu tive meu primeiro contato com back-end utilizando o Node compre
 A partir disso encaixei estudos de back-end na minha rotina com o objetivo de me tornar um Desenvolvedor Full stack.
 ## 🚀 Tecnologias
 **Front-end:**
-- React | TypeScript | Next | Axios | Tailwind
+- React | Typescript | Next | Axios | Tailwind
 
 **Back-end:**
-- Node | Prisma | Axios | Prisma | SQLite | Fastify | Httpie
+- Node | Prisma | Axios | SQLite | Fastify | Httpie | Typescript
 
 **Mobile:**
-- React Native | Expo | NativeWind | TypeScript
+- React Native | Expo | NativeWind | Typescript
 ## 🔗 Deploy
 Ainda não está disponível.
