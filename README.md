@@ -1,4 +1,4 @@
-# <center>**NLW Spacetime**
+# **NLW Spacetime**
 ![preview](.github/assets/preview.png)
 ## 📲 Sobre o projeto
 Essa é uma aplicação de cápsula do tempo. O usuário pode registrar suas memórias e consultar elas futuramente por meio de uma timeline organizada por mês e ano. 
