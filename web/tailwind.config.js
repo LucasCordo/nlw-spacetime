@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        test: 'var(--font-roboto)',
+        sans: 'var(--font-roboto)',
         alt: 'var(--font-bai-jamjuree)',
       },
 
@@ -93,5 +93,5 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  plugins: [require('@tailwindcss/forms')],
 }
