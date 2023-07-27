@@ -49,7 +49,7 @@ export default function App() {
   }, [response])
 
   return (
-    <View className=" flex-1 items-center px-8 py-10">
+    <View className="flex-1 items-center px-8 py-10">
       <View className="flex-1 items-center justify-center gap-6">
         <NLWLogo />
 
